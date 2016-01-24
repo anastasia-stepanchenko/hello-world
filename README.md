@@ -1,4 +1,6 @@
 # hello-world
-1st step
-Enjoy the world
-GitHub desktop
+* _1st step_
+* **Enjoy the world**
+* *GitHub desktop* 
+* math [0;+∞)
+ 
