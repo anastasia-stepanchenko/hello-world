@@ -5,7 +5,7 @@
 * *GitHub desktop* 
 * math [0;+∞)
  
-# Ball_Hall
+## Ball_Hall
 <img src="https://github.com/anastasia-stepanchenko/hello-world/blob/master/ball_1.png" width="400">
 <img src="https://github.com/anastasia-stepanchenko/hello-world/blob/master/ball_2.png" width="400">
 
